@@ -1,4 +1,4 @@
-# Prácticas Webots
+# Prácticas Webots Elsy Cuevas 23310379
 
 Repositorio con cuatro prácticas independientes de Webots. Cada práctica tiene su propio mundo y se incluyen los controladores fuente utilizados.
 
