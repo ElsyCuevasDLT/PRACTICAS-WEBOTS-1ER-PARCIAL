@@ -22,7 +22,7 @@ int main() {
 
   constexpr double kp = 2.0;
   constexpr double ki = 0.10;
-  constexpr double kd = 0.085;
+  constexpr double kd = 0.08;
   constexpr double reference = 0.0;  // rad
   constexpr double integral_limit = 2.0;
 
